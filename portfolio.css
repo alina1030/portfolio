@@ -1,0 +1,170 @@
+.section2{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb23sAzVtA7m98PdkMxqnFaeBAZ7tHusVlXg&usqp=CAU);
+     width:900px;
+    height:600px;
+    margin-top:10px;
+  }
+  .section3{
+    background:url("https://media.istockphoto.com/photos/abstract-background-with-connected-gears-working-together-from-skills-picture-id1198082420?k=6&m=1198082420&s=612x612&w=0&h=8lPs2YG2sW7Gv5Sn_vGHn8X2iJdTUEy8myCq8wkFO0Q=");
+    margin-top:10px;
+    width:900px;
+    height:500px;
+    border-radius:15px;
+  }
+  .para1,.para2,.para3{
+    margin-left:20px;
+    margin-right:20px;
+  }
+  
+  .proj1{
+    margin-left:20px;
+  }
+  
+  .section4{
+    background:linear-gradient(honeydew,khaki);
+    width:900px;
+    height:750px;
+        
+  }
+  
+  .outer{
+    background:url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm255-sasi-27.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=caf23f3151f601f02b7d6ef2517aece4");
+    width:900px;
+    height:530px;
+  }
+  
+  
+  .descp{
+  
+    background:gainsboro;
+    position:relative;
+    top:140px;
+    left:10px;
+    padding:18px;
+    border-radius:10px;
+    width:820px;
+    height:220px;
+  
+  }
+  
+  
+  .descp2{
+    background:linear-gradient(forestgreen,palegreen);
+    position:relative;
+    top:140px;
+    left:70px;
+    padding:18px;
+    border-radius:10px;
+    width:350px;
+    height:260px;
+  }
+  
+  /*.descp4{
+    background:linear-gradient(violet,indigo);
+    position:relative;
+    top:150px;
+    left:70px;
+    padding:18px;
+    border-radius:10px;
+    width:350px;
+    height:300px;
+  }*/
+  
+  .welcome{
+    position:relative;
+    top:110px;
+    left:200px;
+    width:520px;
+    height:160px;
+    /*background:linear-gradient(hotpink,steelblue);*/
+      /*background:url("https://thumbs.dreamstime.com/b/double-exposure-image-business-people-abstract-faded-background-office-building-conference-group-meeting-showing-184944615.jpg");*/
+    padding:5px;
+    text-align:center;
+    border:double thick black;
+  }
+  .intro{
+    text-align:justify;
+    font-family:Time New Roman;
+    position:relative;
+    bottom:40px;
+  }
+  .about1{
+    position:relative;
+    bottom:28px;
+  }
+  .about{
+    font-size:30px;
+    
+  }
+  
+  .points,li{
+     color:white;
+     position:relative;
+     bottom:50px;
+     font-family:arial;
+  }
+  
+  .bio{
+    position:relative;
+    top:800px;
+  }
+  .first,.second{
+    text-align:center;
+    position:relative;
+    top:150px;
+    left:10px;
+  }
+  /*.contact{
+    border-radius:40px;
+    text-align:center;
+    background:deeppink;
+    width:150px;
+    height:24px;
+    position:relative;
+    top:200px;
+    left:400px;
+    
+  }*/
+  .info{
+    
+    background:ghostwhite;
+    color:white;
+    width:360px;
+    height:20px;
+    text-align:center;
+    padding:10px; 
+    margin-left:270px;
+    position:relative;
+    top: 150px;
+    right: 10;
+    border:solid thin black;
+    border-radius:40px;
+    
+  }
+  
+  .one{
+    word-spacing:10px;
+    position:relative;
+    bottom:27px;
+  }
+  
+  p{
+    font-size:large;
+    padding:10px;
+    font-family:Times New Roman;
+    text-align:justify;
+  }
+  
+  .section5{
+     background:url("https://medlininc.com/wp-content/uploads/2018/09/iStock-939184094.jpg");
+    width:900px;
+    height:300px;
+    border-radius:10px;
+    
+  }
+  .contact1,.contact2{
+    text-align:center;
+  
+  }
+  
+  
